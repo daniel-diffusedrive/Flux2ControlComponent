@@ -1,0 +1,4 @@
+diffusers
+*__pycache__*
+trained-flux2
+dog
